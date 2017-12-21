@@ -1,0 +1,23 @@
+.red
+{
+	background-color: blue;
+    overflow-y:hidden;
+}
+.btn-radius
+{
+	border-radius: 5px;
+	cursor:default;
+	width: 80%;
+	text-align: center;
+}
+.footer-left
+{
+	margin-left: 0px;
+}
+body{
+}
+@media only screen and (max-width:960px){
+    body{
+        overflow-y:scroll;
+	}
+}
